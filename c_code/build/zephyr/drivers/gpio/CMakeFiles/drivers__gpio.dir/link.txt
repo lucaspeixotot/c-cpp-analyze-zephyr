@@ -1,2 +1,0 @@
-ccache /opt/zephyr-sdk/sysroots/x86_64-pokysdk-linux/usr/bin/arm-zephyr-eabi/arm-zephyr-eabi-ar qc libdrivers__gpio.a  CMakeFiles/drivers__gpio.dir/gpio_nrfx.c.obj
-ccache /opt/zephyr-sdk/sysroots/x86_64-pokysdk-linux/usr/bin/arm-zephyr-eabi/arm-zephyr-eabi-ranlib libdrivers__gpio.a
