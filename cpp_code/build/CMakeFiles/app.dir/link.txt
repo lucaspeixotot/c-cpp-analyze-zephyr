@@ -1,0 +1,2 @@
+ccache /opt/zephyr-sdk/sysroots/x86_64-pokysdk-linux/usr/bin/arm-zephyr-eabi/arm-zephyr-eabi-ar qc app/libapp.a  CMakeFiles/app.dir/src/ic_version.c.obj CMakeFiles/app.dir/src/main.cpp.obj CMakeFiles/app.dir/src/led_pwm.cpp.obj
+ccache /opt/zephyr-sdk/sysroots/x86_64-pokysdk-linux/usr/bin/arm-zephyr-eabi/arm-zephyr-eabi-ranlib app/libapp.a
